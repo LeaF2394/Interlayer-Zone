@@ -1,0 +1,14 @@
+{
+    "name": "com.team_pawouch.project",
+    "rootNamespace": "com.team_pawouch.project",
+    "references": [],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
